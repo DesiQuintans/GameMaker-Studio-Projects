@@ -1,0 +1,12 @@
+sound_play(choose(
+    snd_Explosion1,
+    snd_Explosion2,
+    snd_Explosion3,
+    snd_Explosion4,
+    snd_Explosion5,
+    snd_Explosion6,
+    snd_Explosion7,
+    snd_Explosion8,
+    snd_Explosion9,
+    snd_Explosion10
+    ));
