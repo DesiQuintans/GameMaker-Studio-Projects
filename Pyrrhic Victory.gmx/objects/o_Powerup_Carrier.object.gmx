@@ -173,7 +173,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>30</string>
+            <string>45</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -303,7 +303,7 @@
           </argument>
           <argument>
             <kind>10</kind>
-            <object>o_Powerup_Shoot</object>
+            <object>o_Powerup_Expand</object>
           </argument>
           <argument>
             <kind>10</kind>
@@ -311,7 +311,7 @@
           </argument>
           <argument>
             <kind>10</kind>
-            <object>o_Powerup_Speed</object>
+            <object>o_Powerup_Expand</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -319,7 +319,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-60</string>
+            <string>-26</string>
           </argument>
         </arguments>
       </action>

@@ -16,5 +16,7 @@
   <For3D>0</For3D>
   <frames>
     <frame index="0">images\s_Player_0.png</frame>
+    <frame index="1">images\s_Player_1.png</frame>
+    <frame index="2">images\s_Player_2.png</frame>
   </frames>
 </sprite>

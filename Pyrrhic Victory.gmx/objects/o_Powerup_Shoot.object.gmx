@@ -51,7 +51,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>global.playerCanShoot</string>
+            <string>global.playerExpandHalo</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -163,7 +163,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>global.playerCanShoot</string>
+            <string>global.playerExpandHalo</string>
           </argument>
           <argument>
             <kind>0</kind>
