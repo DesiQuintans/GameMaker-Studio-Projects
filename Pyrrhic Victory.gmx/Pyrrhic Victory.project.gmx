@@ -61,13 +61,13 @@
     </sprites>
   </sprites>
   <backgrounds name="background">
-    <background>background\background</background>
     <background>background\bg_Main_Menu</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\S_shape</path>
     <path>paths\S_shape_reversed</path>
   </paths>
+  <scripts name="scripts"/>
   <objects name="objects">
     <objects name="Player">
       <object>objects\o_Player</object>
