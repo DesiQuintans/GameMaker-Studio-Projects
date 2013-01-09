@@ -48,7 +48,7 @@
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>Game over.#Press R to restart.#Press Space to go back to the title.</string>
+            <string>Game over. Your score was submitted.#Press R to restart.#Press Space to go back to the title.</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -62,26 +62,6 @@
       </action>
     </event>
     <event eventtype="9" enumb="82">
-      <action>
-        <libid>1</libid>
-        <id>212</id>
-        <kind>0</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_end_sound</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>6</kind>
-            <sound>m_ambient</sound>
-          </argument>
-        </arguments>
-      </action>
       <action>
         <libid>1</libid>
         <id>223</id>

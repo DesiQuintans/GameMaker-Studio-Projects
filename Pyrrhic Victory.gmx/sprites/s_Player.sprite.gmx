@@ -6,9 +6,9 @@
   <coltolerance>0</coltolerance>
   <sepmasks>-1</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>6</bbox_left>
-  <bbox_right>23</bbox_right>
-  <bbox_top>2</bbox_top>
+  <bbox_left>5</bbox_left>
+  <bbox_right>24</bbox_right>
+  <bbox_top>1</bbox_top>
   <bbox_bottom>28</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
@@ -16,7 +16,5 @@
   <For3D>0</For3D>
   <frames>
     <frame index="0">images\s_Player_0.png</frame>
-    <frame index="1">images\s_Player_1.png</frame>
-    <frame index="2">images\s_Player_2.png</frame>
   </frames>
 </sprite>

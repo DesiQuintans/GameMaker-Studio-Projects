@@ -221,11 +221,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>1.5</string>
+            <string>2.0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1.5</string>
+            <string>2.0</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -295,11 +295,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>1.25</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>1.25</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1165,6 +1165,38 @@
         <relative>0</relative>
         <isnot>0</isnot>
       </action>
+      <action>
+        <libid>1</libid>
+        <id>542</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_transform</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
+      </action>
     </event>
     <event eventtype="7" enumb="13">
       <action>
@@ -1291,7 +1323,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1361,7 +1393,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1420,6 +1452,38 @@
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>542</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_transform</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
       </action>
     </event>
     <event eventtype="7" enumb="12">
@@ -1547,7 +1611,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1617,7 +1681,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>2</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1676,6 +1740,38 @@
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>542</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_transform</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>-15</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
       </action>
     </event>
     <event eventtype="7" enumb="11">
@@ -1803,7 +1899,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1873,7 +1969,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1932,6 +2028,38 @@
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>542</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_transform</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
       </action>
     </event>
     <event eventtype="7" enumb="10">
@@ -2188,6 +2316,38 @@
         <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>542</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sprite_transform</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>1</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>15</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
       </action>
     </event>
   </events>

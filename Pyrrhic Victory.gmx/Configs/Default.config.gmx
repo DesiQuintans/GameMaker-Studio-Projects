@@ -162,7 +162,7 @@
   <option_showprogress>1</option_showprogress>
   <option_sizeable>True</option_sizeable>
   <option_stayontop>false</option_stayontop>
-  <option_sync_vertex>0</option_sync_vertex>
+  <option_sync_vertex>1</option_sync_vertex>
   <option_textureGroup0_border>2</option_textureGroup0_border>
   <option_textureGroup0_nocropping>0</option_textureGroup0_nocropping>
   <option_textureGroup0_scaled>0</option_textureGroup0_scaled>
@@ -188,10 +188,10 @@
   <option_use_new_audio>False</option_use_new_audio>
   <option_variableerrors>False</option_variableerrors>
   <option_version>1</option_version>
-  <option_version_build>8</option_version_build>
+  <option_version_build>12</option_version_build>
   <option_version_company>Cowface Games</option_version_company>
   <option_version_copyright>Desi Quintans 2012</option_version_copyright>
-  <option_version_description>Crash your deadly spinning thingy of death  into your foes, but don't let your ship get perforated by their bullets!</option_version_description>
+  <option_version_description>Crash your orbiting laser saw into enemy ships while dodging through a cloud of bullets.</option_version_description>
   <option_version_major>1</option_version_major>
   <option_version_minor>0</option_version_minor>
   <option_version_product></option_version_product>
@@ -222,10 +222,10 @@
   <option_win8_texture_page>1024</option_win8_texture_page>
   <option_win8_wide_logo>Configs\Default\Windows8\logos\logo310.png</option_win8_wide_logo>
   <option_windowcolor>clBlack</option_windowcolor>
-  <option_windows_build_version>5</option_windows_build_version>
+  <option_windows_build_version>11</option_windows_build_version>
   <option_windows_company_info>Cowface Games</option_windows_company_info>
   <option_windows_copyright_info>Desi Quintans 2012</option_windows_copyright_info>
-  <option_windows_description_info>Crash your deadly spinning thingy of death  into your foes, but don't let your ship get perforated by their bullets!</option_windows_description_info>
+  <option_windows_description_info>Crash your orbiting laser saw into enemy ships while dodging through a cloud of bullets.</option_windows_description_info>
   <option_windows_game_icon>Configs\Default\windows\runner_icon.ico</option_windows_game_icon>
   <option_windows_license>Configs\Default\windows\License.txt</option_windows_license>
   <option_windows_mainor_version>0</option_windows_mainor_version>

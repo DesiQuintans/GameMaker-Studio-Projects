@@ -33,8 +33,11 @@
       <sound>sound\snd_Powerup_Expand</sound>
       <sound>sound\snd_Powerup_Speed</sound>
     </sounds>
-    <sound>sound\m_ambient</sound>
-    <sound>sound\snd_Splash_Squeak</sound>
+    <sounds name="UI">
+      <sound>sound\snd_SplashSqueak</sound>
+      <sound>sound\mus_poor_and_awoken</sound>
+      <sound>sound\mus_the_running_journeys</sound>
+    </sounds>
   </sounds>
   <sprites name="sprites">
     <sprites name="Player">
@@ -60,17 +63,11 @@
     <sprites name="Projectiles">
       <sprite>sprites\s_Enemy_Bullet</sprite>
     </sprites>
-    <sprites name="Background">
-      <sprite>sprites\sprite13_BG_Cube_69x78</sprite>
-      <sprite>sprites\sprite16_BG_Octahedron_82x77</sprite>
-      <sprite>sprites\sprite17_BG_Tetrahedron_72x79</sprite>
-      <sprite>sprites\sprite15_BG_Icosahedron_79x79</sprite>
-      <sprite>sprites\sprite14_BG_Dodecahedron_85x81</sprite>
-    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_Main_Menu</background>
     <background>background\Splash_Image</background>
+    <background>background\BG_Grid_32</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\S_shape</path>
@@ -87,7 +84,7 @@
     <objects name="Enemies">
       <object>objects\o_Enemy1</object>
       <object>objects\o_Enemy_Aiming</object>
-      <object>objects\o_Powerup_Carrier</object>
+      <object>objects\o_Bonus_Enemy</object>
     </objects>
     <objects name="Effects">
       <object>objects\o_Enemy_Explosion</object>
@@ -100,8 +97,8 @@
     </objects>
     <objects name="Controllers">
       <object>objects\o_Music_Controller</object>
-      <object>objects\o_Enemy_Controller</object>
-      <object>objects\o_Game_Controller</object>
+      <object>objects\o_Spawn_Controller</object>
+      <object>objects\o_Score_Controller</object>
       <object>objects\o_GameOver</object>
       <object>objects\o_MainMenu</object>
       <object>objects\o_SplashScreen</object>
@@ -113,19 +110,13 @@
       <object>objects\o_GotShield</object>
       <object>objects\o_GotExpand</object>
       <object>objects\o_GotSpeed</object>
-    </objects>
-    <objects name="Background">
-      <object>objects\o_BG_Cube</object>
-      <object>objects\o_BG_Octa</object>
-      <object>objects\o_BG_Tetra</object>
-      <object>objects\o_BG_Icosa</object>
-      <object>objects\o_BG_Dodeca</object>
+      <object>objects\o_GotBonus</object>
     </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\Splash</room>
-    <room>rooms\GameRoom</room>
     <room>rooms\MainMenu</room>
+    <room>rooms\GameRoom</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

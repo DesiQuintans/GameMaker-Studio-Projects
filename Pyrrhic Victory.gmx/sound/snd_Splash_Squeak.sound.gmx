@@ -7,7 +7,7 @@
   <volume>0.58</volume>
   <pan>0</pan>
   <mp3BitRate>192</mp3BitRate>
-  <oggQuality>100</oggQuality>
+  <oggQuality>21</oggQuality>
   <preload>-1</preload>
   <data>snd_Splash_Squeak.wav</data>
 </sound>

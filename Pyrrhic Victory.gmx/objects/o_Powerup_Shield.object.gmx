@@ -29,12 +29,32 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>3</string>
           </argument>
         </arguments>
       </action>
     </event>
     <event eventtype="4" ename="o_Halo">
+      <action>
+        <libid>1</libid>
+        <id>701</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_set_score</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>3</string>
+          </argument>
+        </arguments>
+      </action>
       <action>
         <libid>1</libid>
         <id>201</id>
